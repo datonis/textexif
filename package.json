@@ -1,0 +1,19 @@
+{
+  "name": "textexif",
+  "version": "0.0.0",
+  "description": "textexif ========",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datonis/textexif.git"
+  },
+  "author": "N.K.Rajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datonis/textexif/issues"
+  },
+  "homepage": "https://github.com/datonis/textexif",
+  "dependencies": {
+    "exif2": "0.0.1"
+  }
+}
